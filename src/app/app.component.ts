@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { hello } from '../scripts/custom.js';
 import { CalcService } from '../calc.service';
 import { CshbotService } from '../cshbot.service';
+import { CshbotService } from'../tamaulipas23/tamaulipas23.component';
 
 @Component({
   selector: 'my-app',
